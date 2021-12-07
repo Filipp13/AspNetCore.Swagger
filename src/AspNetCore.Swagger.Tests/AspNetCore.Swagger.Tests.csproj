@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\AspNetCore.SwaggerGen\AspNetCore.SwaggerGen.csproj" />
+      <ProjectReference Include="..\AspNetCore.Swagger\AspNetCore.Swagger.csproj" />
     </ItemGroup>
 
 </Project>
